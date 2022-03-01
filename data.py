@@ -7,6 +7,13 @@ import time
 #import sys
 #import math
 
+#testing for class functions for text hope this works
+
+#class text("textinput")
+
+
+
+
 
 from pygame import font
 
